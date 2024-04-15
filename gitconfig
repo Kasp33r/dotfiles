@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = kasper.a.d@gmail.com
+	name = Kasper De Boeck
